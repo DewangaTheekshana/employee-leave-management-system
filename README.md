@@ -72,12 +72,14 @@ npx nodemon server.js
 ```
 
 👤 *Admin Account Setup*
+
 *Option 1*: Run Admin Seeder
 ```bash
 node seed/adminSeeder.js
 ```
 
 👥 *Employee Test Accounts*
+
 *Option 1*: Run Employee Seeder
 ```bash
 node seed/employeeSeeder.js
