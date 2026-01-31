@@ -117,10 +117,15 @@ Protected routes require JWT token in Authorization header.
 ## ✅ Features
 
 • JWT Authentication
+
 • Role-based Authorization
+
 • Leave request management
+
 • Admin approval/rejection
+
 • Audit logging (bonus)
+
 • Employee registration by admin
 
 ---
@@ -128,6 +133,7 @@ Protected routes require JWT token in Authorization header.
 ## 📌 Notes
 
 • .env file is not committed for security reasons.
+
 • This project focuses mainly on backend logic as per assignment requirements.
 
 ---
